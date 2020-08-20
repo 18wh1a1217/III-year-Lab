@@ -12,4 +12,4 @@ i.character count ii. character stuffing and iii. bit stuffing
 
 ### Output
 
-![output](boxes.jpg.jpg)
+![output](charactercount.png)

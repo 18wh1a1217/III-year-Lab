@@ -28,13 +28,13 @@ i.character count ii.character stuffing and iii. bit stuffing
 
 ####character count:
 
-![output](Count.png)
+![output](charactercount.png)
 
 ####Bit stuffing:
 
-![output](bit.png)
+![output](screenshot(73).png)
 
 ####character stuffing:
 
-![output](character.png)
+![output](screenshot(75).png)
 

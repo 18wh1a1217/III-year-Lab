@@ -32,7 +32,7 @@ i.character count ii.character stuffing and iii. bit stuffing
 
 #### Bit stuffing:
 
-![output](Screenshot(73).png)
+![output](Screenshot (73).png)
 
 #### character stuffing:
 

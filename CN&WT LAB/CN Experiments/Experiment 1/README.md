@@ -4,13 +4,13 @@ i.character count ii.character stuffing and iii. bit stuffing
 
 ### step by step procedure of experiment
 
-####character count
+#### character count
 1. First scan the number of frames required.
 2. Find string length of each frames
 3. Print the Frames at Sender.
 4. Print  the Data Transmitted.
 
-###Bit stuffing 
+### Bit stuffing 
 
 1.Bit stuffing is the insertion of non information bits into data. 
 2.The stuffed bits should not be confused with overhead bits.
@@ -18,7 +18,7 @@ i.character count ii.character stuffing and iii. bit stuffing
 4.Use character stuffing within the frame. 
 5.Replace every occurrence of 11111 with the 0
 
-###character stuffing
+### character stuffing
 1.Use the two-character sequence DLE STX (Data Link Escape, Start of TeXt) to signal the beginning of a frame, and the sequence DLE ETX (End of TeXt) to flag the frame's end.
 2.Use character stuffing within the frame.
 3.Replace every occurrence of DLE with the two-character sequence DLE DLE.
@@ -26,15 +26,15 @@ i.character count ii.character stuffing and iii. bit stuffing
 
 ### Output
 
-####character count:
+#### character count:
 
 ![output](charactercount.png)
 
-####Bit stuffing:
+#### Bit stuffing:
 
-![output](screenshot(73).png)
+![output](Screenshot(73).png)
 
-####character stuffing:
+#### character stuffing:
 
-![output](screenshot(75).png)
+![output](Screenshot(75).png)
 

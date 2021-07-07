@@ -6,5 +6,5 @@ Write a Ruby script to create a new string which is n copies of a given string w
 
 ### Output
 
-![output](exp_1.png)
+![output](exp1.png)
 

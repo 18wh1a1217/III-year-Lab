@@ -5,4 +5,4 @@ Write a Ruby script which accept the radius of a circle from the user and comput
 
 ### Output
 
-![output](exp_2.png)
+![output](exp2.png)
